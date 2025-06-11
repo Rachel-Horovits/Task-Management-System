@@ -1,0 +1,42 @@
+D:\Users\User\Desktop\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+D:\Users\User\Desktop\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+D:\Users\User\Desktop\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+D:\Users\User\Desktop\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+D:\Users\User\Desktop\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+D:\Users\User\Desktop\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+D:\Users\User\Desktop\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+D:\Users\User\Desktop\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+D:\Users\User\Desktop\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+D:\Users\User\Desktop\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+D:\Users\User\Desktop\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
+H:\הנדסאים\projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+H:\הנדסאים\projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+H:\הנדסאים\projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+H:\הנדסאים\projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+H:\הנדסאים\projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+H:\הנדסאים\projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+H:\הנדסאים\projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+H:\הנדסאים\projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+H:\הנדסאים\projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+H:\הנדסאים\projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+H:\הנדסאים\projects\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+H:\הנדסאים\projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+H:\הנדסאים\projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+H:\הנדסאים\projects\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+D:\Users\User\Desktop\להעלות לגיט task managment\פרויקט משימות לקוח\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
