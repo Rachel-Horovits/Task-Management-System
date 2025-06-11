@@ -1,8 +1,5 @@
-﻿# Task Management System
+# Task Management System
 
-בס"ד
-
-## Overview
 A Task Management System in C# (.NET 8) demonstrating the use of multiple design patterns (Creational, Structural, Behavioral).  
 The system allows users to create, assign, update, and track tasks with support for roles, workflow, notifications, and task history.
 
@@ -31,14 +28,38 @@ The system allows users to create, assign, update, and track tasks with support 
 
 ## Design Patterns Used
 
-- **Builder:** For step-by-step task creation.
-- **Composite:** For tasks and subtasks hierarchy.
-- **State:** For managing task workflow/status transitions.
-- **Decorator:** For extensible notification system.
-- **Memento:** For task history and undo functionality.
+- **Builder:** Step-by-step task creation.
+- **Composite:** Tasks and subtasks hierarchy.
+- **State:** Task workflow/status transitions.
+- **Decorator:** Extensible notification system.
+- **Memento:** Task history and undo functionality.
 
 ---
 
 ## Getting Started
 
 1. **Clone the repository:**
+2. **Open the solution in Visual Studio 2022.**
+3. **Build and run the project.**
+
+---
+
+## Project Structure
+
+- `src/core/entities` - Core domain entities (User, TaskItem, etc.)
+- `src/core/enums` - Enums for roles, priorities, statuses.
+- `src/core/services` - Factories and core services.
+- `src/features/userManagement` - User management and access control.
+- `src/features/taskManagement` - Task creation, history, and builder.
+- `src/features/notifications` - Notification system.
+- `src/workflow` - Task workflow state management.
+- `docs/` - Additional documentation.
+
+---
+
+## Documentation
+
+- [Design Patterns Used](docs/design_patterns.md)
+- [Architecture Overview](docs/architecture.md)
+
+---
