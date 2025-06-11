@@ -26,16 +26,6 @@ The system allows users to create, assign, update, and track tasks with support 
 
 ---
 
-## Design Patterns Used
-
-- **Builder:** Step-by-step task creation.
-- **Composite:** Tasks and subtasks hierarchy.
-- **State:** Task workflow/status transitions.
-- **Decorator:** Extensible notification system.
-- **Memento:** Task history and undo functionality.
-
----
-
 ## Getting Started
 
 1. **Clone the repository:**
